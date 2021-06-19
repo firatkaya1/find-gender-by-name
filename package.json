@@ -2,7 +2,7 @@
   "name": "find-gender-by-name",
   "version": "1.0.0",
   "description": "A simple npm library that help to find name gender.",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "fgbn"
   },

@@ -2718,7 +2718,7 @@ export function findGenderByName(name) {
     return list.find(element => element.name = name.toUpperCase());
 }
 
-module.exports = converter
+module.exports = findGenderByName
 
 
 
