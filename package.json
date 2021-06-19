@@ -1,0 +1,23 @@
+{
+  "name": "find-gender-by-name",
+  "version": "1.0.0",
+  "description": "A simple npm library that help to find name gender.",
+  "main": "app.js",
+  "scripts": {
+    "test": "fgbn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firatkaya1/find-gender-by-name.git"
+  },
+  "keywords": [
+    "turkish",
+    "names"
+  ],
+  "author": "firatkaya1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/firatkaya1/find-gender-by-name/issues"
+  },
+  "homepage": "https://github.com/firatkaya1/find-gender-by-name#readme"
+}
