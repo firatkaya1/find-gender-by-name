@@ -1,6 +1,6 @@
 {
   "name": "find-gender-by-name",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple npm library that help to find name gender.",
   "main": "index.js",
   "scripts": {
